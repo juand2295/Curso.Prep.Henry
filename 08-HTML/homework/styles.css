@@ -1,0 +1,35 @@
+.vertical-container {
+    height: 300px;
+    display: -webkit-flex;
+    display:         flex;
+    -webkit-align-items: center;
+            align-items: center;
+    -webkit-justify-content: center;
+            justify-content: center;
+  }
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: deeppink;
+    padding: 50px;
+    border: medium groove cornflowerblue
+}
+#spanID {
+    font-size: 18px;
+    margin: 50px;
+}
+body {
+    background-image: 
+    url(https://www.google.com/search?q=fondo&sxsrf=AJOqlzXBmsr8MtuUZgGAS3UNWlcXeVHjwQ:1675725890784&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiL6NezhYL9AhWXlWoFHUjMBkoQ_AUoAXoECAEQAw&biw=1356&bih=649&dpr=1#imgrc=T9I2p1t1QhVhFM);
+    background-size:cover ;
+    background-repeat:no-repeat ;
+    background-position: center center;
+    margin: 0 auto;
+    text-align: center;
+}
+.divClass {
+    max-width: 600px;
+    position: absolute;
+    top: 120px;
+    margin: 0 auto;
+}

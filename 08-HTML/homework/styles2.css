@@ -1,0 +1,12 @@
+.container {
+    display: -webkit-flex;
+    display: flex;
+}
+.items {
+    -webkit-flex: 1;
+    flex:1;
+}
+div img {
+    float: left;
+    width: 25%;
+}
